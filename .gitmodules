@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MixviR"]
 	path = MixviR
 	url = https://github.com/cran/MixviR
-	shallow = true
-	registered = true
